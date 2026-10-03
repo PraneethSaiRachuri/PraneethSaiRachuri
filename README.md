@@ -1,12 +1,7 @@
-Hi, I'm Praneeth Sai 👋
-💻 I'm a Software Engineer focused on building scalable, reliable, and production-ready applications.
-- 🎓 I hold an M.S. in Artificial Intelligence from San Jose State University, combining a strong software engineering foundation with practical AI experience.
-- 🌐 I enjoy building end-to-end applications, from responsive user experiences to backend services, APIs, databases, and cloud deployments.
-- 🤖 I'm passionate about integrating AI into real-world products, with interests in Large Language Models, RAG, AI Agents, Machine Learning, and intelligent workflow automation.
-- ⚙️ My engineering experience includes building modern applications with React and TypeScript, developing backend systems with Java, Spring Boot, Python, and FastAPI, and working with distributed and event-driven architectures.
-- 🧠 On the AI side, I enjoy building intelligent applications using LLMs, LangChain, LangGraph, embeddings, vector search, and PyTorch, with a focus on turning AI concepts into practical software products.
-- ☁️ I also enjoy working across the complete development lifecycle — from application design and development to cloud deployment, containerization, CI/CD, monitoring, and performance optimization.
-- 🚀 I'm particularly interested in opportunities where Software Engineering and AI come together to build useful, scalable, and intelligent products.
-📫 Let's Connect
-I'm always interested in connecting with engineers, researchers, and builders working on exciting problems across Software Engineering, Distributed Systems, and Artificial Intelligence.
-- 💻 GitHub
+Hi, I'm Praneeth 👋
+💻 I'm a Software Engineer interested in building reliable, scalable, and user-focused software applications.
+- 🌐 I enjoy working across frontend, backend, APIs, databases, and cloud technologies to build complete software solutions.
+- ⚙️ My interests include backend engineering, distributed systems, microservices, cloud-native applications, and full-stack development.
+- 🤖 I'm also interested in Artificial Intelligence and Machine Learning, especially applying modern AI capabilities to practical software applications.
+- 🧠 I enjoy learning new technologies, solving engineering problems, and improving the performance, reliability, and scalability of applications.
+- 🚀 I'm always exploring opportunities to build useful software and continue growing across Software Engineering, Cloud, Distributed Systems, and AI.
